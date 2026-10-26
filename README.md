@@ -1,5 +1,5 @@
 
-# 🐟 LeleKu — Catfish Farm Management
+# 🐟 LeleQu — Catfish Farm Management
 > *"Manage Your Farm, Grow Your Business."*
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -7,7 +7,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-LeleKu adalah aplikasi mobile bertema *Catfish Farm Management System* yang dirancang untuk membantu pemilik peternakan lele dalam mengelola kegiatan operasional usaha. Aplikasi ini memungkinkan admin untuk memantau stok lele, mengelola pesanan pelanggan, mencatat pendapatan, dan melihat riwayat aktivitas dalam satu platform.
+LeleQu adalah aplikasi mobile bertema *Catfish Farm Management System* yang dirancang untuk membantu pemilik peternakan lele dalam mengelola kegiatan operasional usaha. Aplikasi ini memungkinkan admin untuk memantau stok lele, mengelola pesanan pelanggan, mencatat pendapatan, dan melihat riwayat aktivitas dalam satu platform.
 
 Proyek ini dikembangkan menggunakan Flutter dan Dart sebagai implementasi pembelajaran pengembangan aplikasi mobile, dengan Supabase sebagai layanan backend dan PostgreSQL sebagai database.
 
@@ -165,8 +165,8 @@ leleku/
 **1. Clone repository**
 
 ```bash
-git clone https://github.com/username/leleku.git
-cd leleku
+git clone https://github.com/username/lelequ.git
+cd lelequ
 ```
 
 **2. Install dependencies**
@@ -209,21 +209,8 @@ flutter test
 
 ---
 
-## 🔮 Future Development
-
-- Dashboard dengan statistik operasional yang lebih lengkap.
-- Penyempurnaan pencatatan stok dan riwayat penimbangan.
-- Pengelolaan status pesanan dan pembayaran.
-- Filter dan pencarian riwayat transaksi.
-- Laporan pendapatan berdasarkan periode.
-- Ekspor laporan transaksi ke PDF atau Excel.
-- Notifikasi stok dan pesanan.
-- Pengembangan fitur backup dan keamanan data.
-
----
-
 <p align="center">
-  <strong>LELEKU</strong><br>
+  <strong>LELEQU</strong><br>
   <em>"Manage Your Farm, Grow Your Business."</em><br><br>
   Made with Flutter and Dart for Catfish Farm Management.
 </p>
